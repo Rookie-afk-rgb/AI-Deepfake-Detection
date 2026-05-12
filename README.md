@@ -33,11 +33,11 @@ This project detects whether an uploaded image or video is REAL or AI-generated 
 # Project Structure
 
 ```bash
-FFT_Deepfake_Detector/
+Deepfake_Detector-main/
 
 │── app.py
 │── requirements.txt
-│── README.md
+│── .gitignore
 │
 ├── model/
 │   └── FFT_SAVEDMODEL/
